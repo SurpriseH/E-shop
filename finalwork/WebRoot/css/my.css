@@ -1,0 +1,28 @@
+.cont{
+	overflow: hidden;
+	text-overflow: ellipsis;
+	white-space: nowrap;
+	margin-left:10px;
+	font-size:15px;
+}
+.price{
+	margin-left:10px;
+	font-size:15px;
+}
+.span2_a{
+	margin-top:5px;
+	margin-left:10px;
+}
+.trade_img{
+	width:160px;
+	height:160px;
+	margin-left:15px;
+}
+.trade_img_show{
+	width:100%;
+}
+.trade_information_box{
+	margin-top:30px;
+	width:100%;
+	height:250px;
+}
